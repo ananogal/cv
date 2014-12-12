@@ -43,13 +43,17 @@ Working on Avanade has allowed me to meet and participate in the entire life cyc
 
 Worked in several line of business applications for customers such as: 
 
-ICREA - Internet and Intranet for managing applications from scientists ICREA programs.
+#####ICREA
+Internet and Intranet for managing applications from scientists ICREA programs.
 
-Mahou – Developing a solution for PDA inspectors sales of Mahou consisting check the installation of products in the customer record and their satisfaction with the service.
+#####Mahou
+Developing a solution for PDA inspectors sales of Mahou consisting check the installation of products in the customer record and their satisfaction with the service.
 
-Arbora & Ausonia – Worked as a team leader. This solution allowed Arbora to manage packages for industrial products. The solution was an application of custom workflow through intranet using ASP.Net. We also developed a WebService to upload these documents in a MOSS2007 intranet.
+#####Arbora & Ausonia
+Worked as a team leader. This solution allowed Arbora to manage packages for industrial products. The solution was an application of custom workflow through intranet using ASP.Net. We also developed a WebService to upload these documents in a MOSS2007 intranet.
 
-Pepsico – I've done analyse and develop a custom solution based on SharePoint 2007 intranet for Marketing and IT departments. The solution consisted in two different websites full independence, not only in the appearance of each site but also on permits and workflows.
+#####Pepsico
+I've done analyse and develop a custom solution based on SharePoint 2007 intranet for Marketing and IT departments. The solution consisted in two different websites full independence, not only in the appearance of each site but also on permits and workflows.
 
 Technologies :ASP.NET, C#, TSF, SQLSERVER 2005, NUnit, Ajax.Net, Compact Framework, SQLCE, MOSS2007
 
