@@ -4,7 +4,7 @@ Detailed CV on: [LinkedIn](http://www.linkedin.com/in/ananogal)
 
 ###About Me
 
-After being in development for about 20 years, I decided to refresh my skills and practices, by taking the [Makers Academy](http://makersacademy.com) course to reenforce my knowledge of OOP and start a new path on TDD.  On the way I've learned Ruby, Node.js, Meteor and have reenforced my knowledge in JavaScript, Html5, CSS3 and jQuery. 
+After being in development for about 20 years, I decided to refresh my skills and practices, by taking the [Makers Academy](http://makersacademy.com) course to reinforce my knowledge of OOP and start a new path on TDD.  On the way I've learned Ruby, Node.js, Meteor and have reenforced my knowledge in JavaScript, Html5, CSS3 and jQuery. 
 I'm a co-founder  and a developer in this mobile apps: [LetsBasket](https://itunes.apple.com/en/app/letsbasket/id460185648), [Lets4Football](https://itunes.apple.com/us/app/football-stats-more-lets4football+/id593996707?mt=8) [LetsFreezeIt](https://itunes.apple.com/us/app/letsfreezeit-your-camera-in/id882943454?mt=8), and [LetsCompRef](https://itunes.apple.com/us/app/letscompref/id769406191?mt=8).
 
 ###My Skills
@@ -60,7 +60,6 @@ I'm a co-founder  and a developer in this mobile apps: [LetsBasket](https://itun
 |APIs||X||
 |ERB/EJS layouts,||X||
 |Heroku||X||
-|Parse (iOS & JavaScript SDK)||X||
 |AJAX/JSON|||X|
 |WebServices|||X|
 |Handlebars.js|||X|
