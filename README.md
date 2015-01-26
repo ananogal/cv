@@ -11,7 +11,7 @@ I'm a co-founder  and a developer in this mobile apps: [LetsBasket](https://itun
 
 |  Languages|Excelled | Strong| Have experience of |
 |:----------|:--------:|:-------------:|:-----------:|
-|Objective-C|	X| | |
+|Objective-C|	| X| |
 |Swift||X||
 |C#||X||
 |ASP.NET||X||
@@ -33,7 +33,7 @@ I'm a co-founder  and a developer in this mobile apps: [LetsBasket](https://itun
 
 |  Frameworks/Libraries|Excelled | Strong| Have experience of |
 |:----------|:--------:|:-------------:|:-----------:|
-|SQL Server|	X| | |
+|SQL Server||X| |
 |PostgreSQL||X||
 |DataMapper||X||
 |ActiveRecord|||X|
