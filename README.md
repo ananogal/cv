@@ -9,69 +9,22 @@ I'm a co-founder  and a developer in this mobile apps: [LetsBasket](https://itun
 
 ###My Skills
 
-|  Languages|Excelled | Strong| Have experience of |
-|:----------|:--------:|:-------------:|:-----------:|
-|Objective-C|	| X| |
-|Swift||X||
-|C#||X||
-|ASP.NET||X||
-|C#||X||
-|Java(Android SDK)||X||
-|Ruby|||X|
-|JavaScript|||X|
-|HTML 5|||X|
-|CSS 3|||X|
 
-|Databases/ORMs|  Excelled | Strong| Have experience of |
-|:----------|:--------:|:-------------:|:-----------:|
-|Parse|	| X| |
-|Sinatra||X||
-|jQuery||X||
-|Rails|||X|
-|Express.js|||X|
-|NHibernate|||X|
-
-|  Frameworks/Libraries|Excelled | Strong| Have experience of |
-|:----------|:--------:|:-------------:|:-----------:|
-|SQL Server||X| |
-|PostgreSQL||X||
-|DataMapper||X||
-|ActiveRecord|||X|
-|Mongoose|||X|
-|MongoDB|||X|
-|Oracle|||X|
-
-|  Testing Tools|Excelled | Strong| Have experience of |
-|:----------|:--------:|:-------------:|:-----------:|
-|OCUnit/XCTest|	| X| |
-|RSpec||X||
-|Capybara||X||
-|Jasmine||X||
-|Cucumber|||X|
-|Mocha|||X|
-|Chai|||X|
-|Zombie.js|||X|
-
-
-
-|  Other|Excelled | Strong| Have experience of |
-|:----------|:--------:|:-------------:|:-----------:|
-|Git/Mercurial|	| X| |
-|APIs||X||
-|ERB/EJS layouts,||X||
-|Heroku||X||
-|AJAX/JSON|||X|
-|WebServices|||X|
-|Handlebars.js|||X|
-|Bootstrap 3|||X|
-|Zombie.js|||X|
-
+| | Strong|Know| Touched on |
+|:----------|:--------|:-------------|:-----------|
+|  Languages |Objective-C, C#, ASP.NET|Swift, Java(Android SDK), Ruby, JavaScript| HTML 5, CSS 3|
+|Frameworks/Libraries|Parse, jQuery|Sinatra|Rails, Express.js, NHibernate|
+| Databases/ORMs|SQL Server, Oracle|PostgreSQL, MySQL, DataMapper|ActiveRecord, Mongoose, MongoDB|
+|  Testing Tools|OCUnit/XCTest|RSpec, Capybara, Jasmine, Cucumber|Kiwi, Mocha, Chai, Zombie.js|
+|Other|Git/Mercurial, AJAX/JSON, WebServices |APIs, ERB/EJS layouts, Heroku|Handlebars.js, Bootstrap 3, Zombie.js|
 
 ###My Code
 
-|[FlickyNotes](https://github.com/ananogal/FlickyNotes) | [GitRacer](https://github.com/ananogal/gitRacer) | [Rock Paper Scissors](https://github.com/ananogal/rps_js)|
-|:------|:--------|:--------|
-| Flicky Notes is a meeting app which allows you to write your own notes on a mobile device and swipe then to the board on your desktop. | A fun little website that tracks Github commits and presents it as a racing game.|The famous game made in javaScript|
+|Project| Description |
+|:-----------|:-------------|
+|[FlickyNotes](https://github.com/ananogal/FlickyNotes) |  Flicky Notes is a meeting app which allows you to write your own notes on a mobile device and swipe then to the board on your desktop.|
+|[GitRacer](https://github.com/ananogal/gitRacer) | A fun little website that tracks Github commits and presents it as a racing game.
+| [Rock Paper Scissors](https://github.com/ananogal/rps_js)|The famous game made in javaScript|
 
 
 ###My Experience
